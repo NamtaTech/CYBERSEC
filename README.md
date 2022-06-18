@@ -1,8 +1,10 @@
 ## CYBERSEC RESOURCES  
 
 ### SETUP AWS VPS LAB:
-https://youtu.be/4xJDDUt4Wq8
-Deploy vulnhub image(s)
-Cost $.04/hour
+https://youtu.be/4xJDDUt4Wq8 
+Deploy vulnhub image(s) 
+Cost $.04/hour 
+
+
 
 
