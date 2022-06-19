@@ -21,9 +21,9 @@ CEH: https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/
 Cyber Blue: https://securityblue.team/  
 Cyber Defenders: https://cyberdefenders.org/  
 
-Root-me. 
-Hack.me. 
-Over The Wire. 
+Root-me.  
+Hack.me.  
+Over The Wire.  
 Hack This Site: https://www.hackthissite.org/  
 The Web Security Academy. 
 Defend The Web: https://defendtheweb.net/  
