@@ -12,7 +12,7 @@ Cost $.04/hour.
 Hack the box: https://www.hackthebox.eu/  
 Try Hack Me: https://tryhackme.com/  
 CTF Time: https://ctftime.org/ctf-wtf/  
-eLearn Security: https://elearnsecurity.com. 
+eLearn Security: https://elearnsecurity.com   
 OSCP: https://www.offensive-security.com/courses-and-certifications/  
 INE: https://bit.ly/inetraining/  
 SANS: https://www.sans.org/  
