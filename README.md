@@ -34,6 +34,12 @@ CTFlearn: https://ctflearn.com/
 
 
 ### VIDEOS
+YT channels:
+. David Bombak
+. Chris Greer
+. John Hammond
+. NetworkChuck
+. STOK
 
 
 ### BOOKS
