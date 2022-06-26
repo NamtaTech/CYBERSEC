@@ -7,7 +7,7 @@ Cost $.04/hour.
 
 
 
-### TRAINING LABS
+### TRAINING LABS and CTFs
 
 - Hack the box: https://www.hackthebox.eu/  
 - Try Hack Me: https://tryhackme.com/  
@@ -29,7 +29,8 @@ Cost $.04/hour.
 - Defend The Web: https://defendtheweb.net/  
 - Damn Vulnerable Web Application (DVWA): https://dvwa.co.uk/  
 - CTFlearn: https://ctflearn.com/  
-
+- [Proving Grounds](https://www.offensive-security.com/labs/)
+- [Vulnhub/Hackthebox OSWE-like VMs](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#)
 
 
 
@@ -40,14 +41,38 @@ YT channels:
 - John Hammond
 - NetworkChuck
 - STOK
+- [LiveOverflow](https://www.youtube.com/c/LiveOverflow)
+- [ippsec](https://www.youtube.com/c/ippsec)
+- [0xdf](https://www.youtube.com/c/0xdf0xdf)
+- [JohnHammond](https://www.youtube.com/c/JohnHammond010)
+- [xct](https://www.youtube.com/c/xct_de)
+- [JustinSteven](https://www.youtube.com/c/JustinSteven)
+- [DerekRook](https://www.youtube.com/c/DerekRook)
+- [dist67](https://www.youtube.com/user/dist67)
 
 
-### BOOKS
+
+
+## TOOLS
+* metasploit
+* Burp
+* Beef
+* Recon-ng
+* Hydra
+* Hashcat
 
 
 
+## BOOKS
 
-### PUBLIC PROJECTS
+- Web Hacking 101 by Peter Yaworski
+- Real-World Bug Hunting by Peter Yaworski
+- Bug Bounty Bootcamp by Vickie Li
+- https://portswigger.net/web-security/web-application-hackers-handbook](https://port
+- [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws 2](https://www.amazon.com/gp/product/1118026470/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118026470&linkCode=as2&tag=bugcrowd-20&linkId=9f9c5e3f51e50ea7092a21a04aec184f/)
+- [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
+- [Penetration Testing: A Hands-On Introduction to Hacking](https://www.amazon.com/gp/product/1593275641/ref=as_li_tl?ie=UTF8&tag=bugcrowd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1593275641&linkId=e107661e1fd700bdd12616a60ba6e06f)
+
 
 
 
@@ -55,10 +80,55 @@ YT channels:
 - https://github.com/edoardottt/awesome-hacker-search-engines
 
 
+###  WRITE UPS
+ - https://hub.docker.com/u/vulhub/
+
+
+
+## Blogs:
+- [m0chan](https://m0chan.github.io/)
+- [gynvael](https://gynvael.coldwind.pl/?blog=1)
+- [birdsarentrealctf](https://birdsarentrealctf.dev/)
+- [lyk6756](https://lyk6756.github.io/)
+- [p1umer](https://p1umer.github.io/)
+- [alexfrancow](https://alexfrancow.github.io/) 🤪
+
+
+
+## Courses and Certs:
+- [WebSecurity Academy by Portswigger](https://portswigger.net/web-security)
+- [Pentesterlab](https://pentesterlab.com/)
+- [WEB-100, WEB-200 and WEB-300 by Offensive Security](https://www.offensive-security.com/courses-and-certifications/)
+- [eWPT by eLearn Security](https://elearnsecurity.com/product/ewpt-certification/)
+
+
+## Wikis:
+- [hacktricks](https://book.hacktricks.xyz)
+- [cheatsheet haax](https://cheatsheet.haax.fr/web-pentest/)
+- [viperone](https://viperone.gitbook.io/pentest-everything/)
+
+
+## Vulnerable Apps:
+- [Vulhub](https://github.com/vulhub/vulhub)
+- [Vulhub Docker Images](https://hub.docker.com/u/vulhub/)
 
 
 
 
+### Java
+- [WebGoat](https://github.com/WebGoat/WebGoat)
+
+### PHP
+- [DVWA](https://dvwa.co.uk/)
+
+### Python
+- [django.nV](https://github.com/nVisium/django.nV)
+- [vulpy](https://github.com/fportantier/vulpy)
+
+### NodeJS
+- [DVNA](https://github.com/appsecco/dvna)
+- [Juice Shop](https://github.com/juice-shop/juice-shop-ctf)
+- [NodeGoat](https://github.com/OWASP/NodeGoat)
 
 
 
