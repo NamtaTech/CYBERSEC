@@ -31,7 +31,7 @@ Cost $.04/hour.
 - CTFlearn: https://ctflearn.com/  
 - [Proving Grounds](https://www.offensive-security.com/labs/)
 - [Vulnhub/Hackthebox OSWE-like VMs](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#)
-
+- [Portswigger labs]: https://portswigger.net/web-security/all-labs
 
 
 ### VIDEOS
@@ -49,7 +49,7 @@ YT channels:
 - [JustinSteven](https://www.youtube.com/c/JustinSteven)
 - [DerekRook](https://www.youtube.com/c/DerekRook)
 - [dist67](https://www.youtube.com/user/dist67)
-
+- [CryptoCat](https://www.youtube.com/c/CryptoCat23)  
 
 
 
