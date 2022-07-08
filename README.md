@@ -61,6 +61,16 @@ YT channels:
 * Recon-ng
 * Hydra
 * Hashcat
+* Ghidra: https://ghidra.re/CheatSheet.html
+* Volatility: https://github.com/volatilityfoundati...
+* PwnTools: https://github.com/Gallopsled/pwntool...
+* CyberChef: https://gchq.github.io/CyberChef
+* DCode: https://www.dcode.fr/en
+* HackTricks: https://book.hacktricks.xyz/pentestin...
+* CTF Tools: https://github.com/apsdehal/awesome-ctf
+* Forensics: https://cugu.github.io/awesome-forensics
+* Decompile Code: https://www.decompiler.com
+* Run Code: https://tio.run
 
 
 
