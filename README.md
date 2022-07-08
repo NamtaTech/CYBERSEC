@@ -93,6 +93,7 @@ YT channels:
 - [lyk6756](https://lyk6756.github.io/)
 - [p1umer](https://p1umer.github.io/)
 - [alexfrancow](https://alexfrancow.github.io/) 🤪
+- [hacktricks](https://book.hacktricks.xyz/welcome/readme)
 
 
 
