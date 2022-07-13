@@ -42,6 +42,7 @@ YT channels:
 - John Hammond
 - NetworkChuck
 - STOK
+- The Cyber Mentor
 - [LiveOverflow](https://www.youtube.com/c/LiveOverflow)
 - [ippsec](https://www.youtube.com/c/ippsec)
 - [0xdf](https://www.youtube.com/c/0xdf0xdf)
