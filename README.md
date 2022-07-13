@@ -33,7 +33,7 @@ Cost $.04/hour.
 - [Vulnhub/Hackthebox OSWE-like VMs](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#)
 - [Portswigger labs](https://portswigger.net/web-security/all-labs)
 - [Hacker101](https://www.hacker101.com)
-
+- https://www.vulnmachines.com/ 
 
 ### VIDEOS
 YT channels:
