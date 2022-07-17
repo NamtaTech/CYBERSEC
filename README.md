@@ -6,7 +6,7 @@
 
 ### DOMAINS MAP
 - https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang/
-- https://www.linkedin.com/pulse/free-cybersecurity-training-why-pay-thousands-dollars-meece-
+
 
 
 ### SETUP AWS VPS LAB:
@@ -17,7 +17,7 @@ Cost $.04/hour.
 
 
 ### TRAINING LABS and CTFs
-
+- https://www.linkedin.com/pulse/free-cybersecurity-training-why-pay-thousands-dollars-meece-
 - Hack the box: https://www.hackthebox.eu/  
 - Try Hack Me: https://tryhackme.com/  
 - Vulnhub: https://www.vulnhub.com/  
@@ -61,7 +61,7 @@ YT channels:
 - [DerekRook](https://www.youtube.com/c/DerekRook)
 - [dist67](https://www.youtube.com/user/dist67)
 - [CryptoCat](https://www.youtube.com/c/CryptoCat23)  
-
+- [Marcus Hutchins] (https://www.youtube.com/c/MalwareTechBlog)
 
 
 ## TOOLS
@@ -114,8 +114,8 @@ YT channels:
 - [p1umer](https://p1umer.github.io/)
 - [alexfrancow](https://alexfrancow.github.io/) 🤪
 - [hacktricks](https://book.hacktricks.xyz/welcome/readme)
-
-
+- [100 Days of Cybersecurity] (https://www.linkedin.com/pulse/100-days-cybersecurity-day-1-christopher-johnston-?trk=pulse-article)
+- https://www.malwaretech.com/
 
 ## Courses and Certs:
 - [WebSecurity Academy by Portswigger](https://portswigger.net/web-security)
