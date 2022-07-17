@@ -1,5 +1,9 @@
 ## CYBERSEC RESOURCES  
 
+### CERTS
+- https://pauljerimy.com/security-certification-roadmap/
+
+
 ### SETUP AWS VPS LAB:
 https://youtu.be/4xJDDUt4Wq8   
 Deploy vulnhub image(s)  
