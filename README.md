@@ -4,6 +4,11 @@
 - https://pauljerimy.com/security-certification-roadmap/
 
 
+### DOMAINS MAP
+- https://www.linkedin.com/pulse/cybersecurity-domain-map-ver-30-henry-jiang/
+- https://www.linkedin.com/pulse/free-cybersecurity-training-why-pay-thousands-dollars-meece-
+
+
 ### SETUP AWS VPS LAB:
 https://youtu.be/4xJDDUt4Wq8   
 Deploy vulnhub image(s)  
