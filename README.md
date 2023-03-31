@@ -53,6 +53,8 @@ YT channels:
 - NetworkChuck
 - STOK
 - The Cyber Mentor
+- Jason Haddix
+- NahamSec
 - [LiveOverflow](https://www.youtube.com/c/LiveOverflow)
 - [ippsec](https://www.youtube.com/c/ippsec)
 - [0xdf](https://www.youtube.com/c/0xdf0xdf)
@@ -94,7 +96,7 @@ YT channels:
 - [The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws 2](https://www.amazon.com/gp/product/1118026470/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1118026470&linkCode=as2&tag=bugcrowd-20&linkId=9f9c5e3f51e50ea7092a21a04aec184f/)
 - [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
 - [Penetration Testing: A Hands-On Introduction to Hacking](https://www.amazon.com/gp/product/1593275641/ref=as_li_tl?ie=UTF8&tag=bugcrowd-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1593275641&linkId=e107661e1fd700bdd12616a60ba6e06f)
-
+- OWASP Top 10
 
 
 
