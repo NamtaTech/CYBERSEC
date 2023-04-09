@@ -63,7 +63,8 @@ YT channels:
 - [JustinSteven](https://www.youtube.com/c/JustinSteven)
 - [DerekRook](https://www.youtube.com/c/DerekRook)
 - [dist67](https://www.youtube.com/user/dist67)
-- [CryptoCat](https://www.youtube.com/c/CryptoCat23)  
+- [CryptoCat](https://www.youtube.com/c/CryptoCat23)
+- https://github.com/Crypto-Cat/CTF
 - [Marcus Hutchins] (https://www.youtube.com/c/MalwareTechBlog)
 
 
@@ -88,7 +89,6 @@ YT channels:
 
 
 ## BOOKS
-
 - Web Hacking 101 by Peter Yaworski
 - Real-World Bug Hunting by Peter Yaworski
 - Bug Bounty Bootcamp by Vickie Li
