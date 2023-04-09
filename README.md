@@ -65,7 +65,7 @@ YT channels:
 - [dist67](https://www.youtube.com/user/dist67)
 - [CryptoCat](https://www.youtube.com/c/CryptoCat23)
 - https://github.com/Crypto-Cat/CTF
-- [Marcus Hutchins] (https://www.youtube.com/c/MalwareTechBlog)
+- [Marcus Hutchins](https://www.youtube.com/c/MalwareTechBlog)
 
 
 ## TOOLS
