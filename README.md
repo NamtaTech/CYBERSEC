@@ -125,7 +125,7 @@ YT channels:
 - [Pentesterlab](https://pentesterlab.com/)
 - [WEB-100, WEB-200 and WEB-300 by Offensive Security](https://www.offensive-security.com/courses-and-certifications/)
 - [eWPT by eLearn Security](https://elearnsecurity.com/product/ewpt-certification/)
-
+- https://www.antisyphontraining.com/pay-what-you-can/
 
 ## Wikis:
 - [hacktricks](https://book.hacktricks.xyz)
