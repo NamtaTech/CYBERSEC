@@ -44,6 +44,10 @@ Cost $.04/hour.
 - [Hacker101](https://www.hacker101.com)
 - https://www.vulnmachines.com/
 - https://www.hackers-arise.com/
+- https://www.antisyphontraining.com/pay-what-you-can/
+https://github.com/strandjs/IntroLabs
+https://www.antisyphontraining.com/john-strand-training-lab-download-instructions/
+https://www.reddit.com/r/vmware/comments/k7hd4z/virtualized_amdvrvi_is_not_supported_on_this/
 
 ### VIDEOS
 YT channels:
