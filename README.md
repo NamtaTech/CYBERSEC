@@ -70,6 +70,7 @@ YT channels:
 - [CryptoCat](https://www.youtube.com/c/CryptoCat23)
 - https://github.com/Crypto-Cat/CTF
 - [Marcus Hutchins](https://www.youtube.com/c/MalwareTechBlog)
+- PhD Security
 
 
 ## TOOLS
