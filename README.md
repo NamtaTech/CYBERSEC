@@ -73,6 +73,11 @@ YT channels:
 - PhD Security
 
 
+## BUG BOUNTY FOR BEGINNERS
+* https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
+
+
+
 ## TOOLS
 * metasploit
 * Burp
