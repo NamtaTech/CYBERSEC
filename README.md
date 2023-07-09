@@ -75,7 +75,10 @@ YT channels:
 
 ## BUG BOUNTY FOR BEGINNERS
 * https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
-
+* https://github.com/crackallcode/Bug-Bounty-Checklist
+* https://gowthams.gitbook.io/bughunter-handbook/checklists
+* https://github.com/sehno/Bug-bounty/blob/master/bugbounty_checklist.md#authentication
+* https://github.com/KathanP19/HowToHunt/blob/master/Broken_Auth_And_Session_Management/Session_based_bugs.md
 
 
 ## TOOLS
