@@ -123,6 +123,7 @@ YT channels:
 
 
 ## Blogs:
+- [OWASP](https://owasp.org/)
 - [m0chan](https://m0chan.github.io/)
 - [gynvael](https://gynvael.coldwind.pl/?blog=1)
 - [birdsarentrealctf](https://birdsarentrealctf.dev/)
