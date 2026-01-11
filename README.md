@@ -20,7 +20,8 @@ Cost $.04/hour.
 - https://www.linkedin.com/pulse/free-cybersecurity-training-why-pay-thousands-dollars-meece-
 - Hack the box: https://www.hackthebox.eu/  
 - Try Hack Me: https://tryhackme.com/  
-- Vulnhub: https://www.vulnhub.com/  
+- Vulnhub: https://www.vulnhub.com/
+- Hackerone: https://www.hackerone.com/  
 - CTF Time: https://ctftime.org/ctf-wtf/  
 - eLearn Security: https://elearnsecurity.com   
 - OSCP: https://www.offensive-security.com/courses-and-certifications/  
